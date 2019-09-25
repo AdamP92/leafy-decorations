@@ -3,11 +3,13 @@ html {
 }
 
 .masthead {
-
+ background-color: #588477;
 }
 
 .logo {
   text-align: center;
+  color: #fff;
+
 }
 
 .nav {
@@ -16,6 +18,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  background-color: #467366;
+  color: #fff;
+  border: 3px solid rgba(16, 52, 41, 0.8);
+  border-radius: 8px;
 }
 
 .nav a:hover {
@@ -23,6 +29,7 @@ html {
 }
 
 .banner {
+  background-image: url(../www/images/leaf-bg.ai);
 
 }
 
